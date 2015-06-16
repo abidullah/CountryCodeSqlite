@@ -1,6 +1,6 @@
 # CountryCodeSqlite
 Search Country Name from Dial Code using Sqlite
 
-![alt text](screenshots/pic1.png "")
-![alt text](screenshots/pic2.png "")
-![alt text](screenshots/pic3.png "")
+![alt text](pic1.png "")
+![alt text](pic2.png "")
+![alt text](pic3.png "")
